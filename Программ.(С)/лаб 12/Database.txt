@@ -1,0 +1,5 @@
+0  Bryzgalov                               Suit                Cloth               10        3         11/02/2022 
+1  Gurilev                                 Paints              Clear               6         1         15/02/2022 
+2  Goloshapov                              T-shirt             YourLook            3         1         07/02/2022 
+3  Jirdanov                                Socks               SetBetter           2         2         09/02/2022 
+4  Hospin                                  Jacket              Slattern            4         3         12/02/2022 
